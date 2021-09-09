@@ -1,0 +1,7 @@
+# Logger Setting:
+loggerName: musicPlayer
+loggerLevel: INFO
+
+# Spotify user details  
+clientID: 
+clientSecret: 
